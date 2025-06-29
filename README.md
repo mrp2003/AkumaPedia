@@ -1,4 +1,5 @@
 # Akuma Pedia - Devil Fruit Encyclopedia Chatbot
+![image](https://github.com/user-attachments/assets/f0013897-1757-4c67-99cc-b3212fa3eabd)
 
 An interactive, AI-powered chatbot that answers questions about Devil Fruits from the One Piece universe. Built with Streamlit and OpenAI's GPT-3.5, this app delivers accurate, conversational responses about fruit types, users, abilities, and lore in real time.
 
